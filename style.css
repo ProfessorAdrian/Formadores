@@ -1,3 +1,13 @@
+
+#titulo{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:red;
+    font-size: 20px;
+}
 body{
     background: red;
 }
