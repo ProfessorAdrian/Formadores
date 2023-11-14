@@ -4,6 +4,11 @@
     text-align: center;
     background-color: rgb(red, green, blue);
 }
+#banner {
+    width: 50%;
+    margin: 20px;
+    padding: 5px;
+}
 .texto{
     text-align: center;
     color:red;
