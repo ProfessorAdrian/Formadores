@@ -4,7 +4,27 @@
     text-align: center;
     background-color: rgb(red, green, blue);
 }
+header{
+    padding: 20px;
+    background-color: bisque;
+    border-bottom: 2px solid white;
+    font-size: 32px;
+    color: white;
+}
+.cabecalho{
+    background-color: aqua;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+#banner1 {
+    width: 35%;
+    padding: 5px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
 
+}
 #banner {
     width: 50%;
     margin: 20px;
